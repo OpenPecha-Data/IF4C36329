@@ -1,0 +1,99 @@
+id: 8574e25810f541678f43d313aa587318
+annotation_type: Language
+revision: '00001'
+annotations:
+  855888bf7a994a4f907d7676809001ba:
+    span:
+      start: 0
+      end: 150
+    language: en
+  073a4700de2540068ed15c0005634901:
+    span:
+      start: 189
+      end: 639
+    language: en
+  122be8af8c5241d9b9eff935124f3e82:
+    span:
+      start: 34025
+      end: 34048
+    language: en
+  a507686a4c164ccfbc778be98163c85f:
+    span:
+      start: 206203
+      end: 206231
+    language: en
+  5b42dc7808684bd4a57075fe40f8e597:
+    span:
+      start: 270393
+      end: 270435
+    language: en
+  c1f870746d7a447890b6d424ada3be53:
+    span:
+      start: 329411
+      end: 329454
+    language: en
+  411db0870f2d43108970efb8266e103c:
+    span:
+      start: 441377
+      end: 441416
+    language: en
+  df6f264ae9ec46bfb5293f1b70be6476:
+    span:
+      start: 512133
+      end: 512154
+    language: en
+  2b5aa96575bc4bc9ade0fa8b27576acb:
+    span:
+      start: 837619
+      end: 837647
+    language: en
+  d71330c1d8954125ae8f8ed7cf8b80d0:
+    span:
+      start: 907474
+      end: 907515
+    language: en
+  e740e5d98aae458394a1437670940c30:
+    span:
+      start: 948741
+      end: 948769
+    language: en
+  985128c040ed4c0b940c8ef590752538:
+    span:
+      start: 997036
+      end: 997096
+    language: en
+  a32b86706e7a44018ec3cfe31c2684a6:
+    span:
+      start: 1124426
+      end: 1124460
+    language: en
+  6f95c2536ea643f4a3f37fd19e7541cf:
+    span:
+      start: 1127153
+      end: 1127246
+    language: en
+  07b922b970174202b2432ea0b927300b:
+    span:
+      start: 1248115
+      end: 1248281
+    language: en
+  4f54f30cbc9846e9a288bdbe370f85e6:
+    span:
+      start: 1248309
+      end: 1250641
+    language: en
+  203ba0868c2a40e9b9a13afb9d84fe35:
+    span:
+      start: 1250680
+      end: 1250789
+    language: en
+  74c37456cc8c4e1bac5bb197eeab60d3:
+    span:
+      start: 1250886
+      end: 1250953
+    language: en
+  681226e350064b75b0289f64f8525b75:
+    span:
+      start: 1250982
+      end: 1251521
+    language: en
